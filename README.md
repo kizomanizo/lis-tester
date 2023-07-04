@@ -1,6 +1,6 @@
 # Tester
 
-Testing and setting up Docer, NodeJS and MongoDB on MacOS.
+Testing and setting up Docker, NodeJS and MongoDB on MacOS for ZanLIS integration app.
 
 ## License
 
