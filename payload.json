@@ -1,0 +1,29 @@
+{
+  "facility_code": 100101,
+  "order_status": "Complete",
+  "client_name": "Ali Makame Faki",
+  "first_name": "Bandari",
+  "middle_name": "Dubai",
+  "last_name": "Port",
+  "client_mrn": "1000-00-00-85/2023",
+  "client_sex": "male",
+  "department": "outpatient",
+  "location_id": "100033",
+  "birthdate": "2022-10-25",
+  "visit_id": "b3605548ea6311edb003cda4e16bf14b",
+  "order_id": "42687a39ea8011ed891acf59d86209b4",
+  "ordered_on": 1683207209186,
+  "ordered_by": "Afande Sele",
+  "tests": [
+    {
+      "test_id": "0607b904f9ec11ecba7b999985375bd6",
+      "test_notes": "e.g. Fever and Headache.",
+      "is_urgent": true
+    },
+    {
+      "test_id": "52c129bcd75711ecb9ccb31b67660dfd",
+      "test_notes": "e.g. Complete urine test, focus on colour",
+      "is_urgent": false
+    }
+  ]
+}
